@@ -1,0 +1,10 @@
+/.nb-gradle/
+.gradle
+/build/*
+/MatkakorttiMockito/.nb-gradle/
+/MatkakorttiMockito/build/
+/MockitoDemo/.nb-gradle/
+/MockitoDemo/build/
+/VerkkokauppaSpring/.nb-gradle/
+/IntJoukkoSovellus/.nb-gradle/
+/IntJoukkoSovellus/build/
